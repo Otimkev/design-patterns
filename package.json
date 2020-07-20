@@ -1,0 +1,19 @@
+{
+  "name": "design-patterns",
+  "version": "1.0.0",
+  "description": "Building a console shopping cart application",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Otimkev/design-patterns.git"
+  },
+  "author": "kevin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Otimkev/design-patterns/issues"
+  },
+  "homepage": "https://github.com/Otimkev/design-patterns#readme"
+}
